@@ -1,4 +1,4 @@
-@regression @smoke-test @registration @pushpa
+@regression @smoke-test @registration
 Feature: Create an Account 
 	As a new user
 
